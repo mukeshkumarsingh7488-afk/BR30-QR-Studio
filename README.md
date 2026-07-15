@@ -63,7 +63,7 @@ public/
 Then use
 
 ```md
-![BR30 QR Studio Preview](./public/preview.png)
+![BR30 QR Studio Preview](https://raw.githubusercontent.com/mukeshkumarsingh7488-afk/BR30-QR-Studio/main/public/preview.png)
 ```
 
 ---
