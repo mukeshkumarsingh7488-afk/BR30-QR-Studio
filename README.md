@@ -1,32 +1,53 @@
 # 🚀 BR30 QR Studio
 
 <p align="center">
-  <img src="public/favicon.ico" width="120" alt="BR30 QR Studio Logo">
+  <img src="https://raw.githubusercontent.com/mukeshkumarsingh7488-afk/BR30-QR-Studio/main/public/favicon.ico" width="120" alt="BR30 QR Studio Logo">
 </p>
 
-<h3 align="center">
-Create Beautiful & Stylish QR Codes in Seconds
-</h3>
+<h1 align="center">BR30 QR Studio</h1>
 
 <p align="center">
-Generate premium QR codes from any URL instantly with a clean, fast and modern interface.
+Create Beautiful & Stylish QR Codes in Seconds
+</p>
+
+<p align="center">
+Generate premium QR codes instantly from any URL with a clean, fast and modern interface.
+</p>
+
+<p align="center">
+
+![React](https://img.shields.io/badge/React-Latest-61DAFB?logo=react)
+![Vite](https://img.shields.io/badge/Vite-Latest-646CFF?logo=vite)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript)
+![License](https://img.shields.io/badge/License-MIT-success)
+
 </p>
 
 ---
 
-## 📖 About
+# 📸 Preview
 
-**BR30 QR Studio** is a modern web application developed by **BR30 Group** that allows users to generate beautiful QR codes instantly from any website link.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mukeshkumarsingh7488-afk/BR30-QR-Studio/main/public/preview.png" alt="BR30 QR Studio Preview" width="100%">
+</p>
 
-The application focuses on simplicity, speed, and a premium user experience.
+---
 
-No login.
+# 📖 About
 
-No signup.
+**BR30 QR Studio** is a premium QR Code Generator developed by **BR30 Group**.
 
-No ads.
+It allows users to generate stylish QR Codes instantly from any website link without requiring login or signup.
 
-Just paste your link and generate your QR Code.
+Everything works directly inside your browser.
+
+No Login.
+
+No Signup.
+
+No Ads.
+
+Just Paste → Generate → Download.
 
 ---
 
@@ -34,63 +55,44 @@ Just paste your link and generate your QR Code.
 
 - ⚡ Instant QR Code Generation
 - 🎨 Stylish QR Design
-- 📱 Mobile Responsive
-- ⚙️ Fast Performance
 - 🔗 Supports Any URL
 - 💾 Download QR Code
+- 📱 Mobile Responsive
 - 🌙 Premium Dark UI
-- 🚀 Built with React + Vite
+- ⚙️ Fast Performance
+- 🚀 React + Vite Powered
 
 ---
 
-# 🖥️ Live Demo
+# 🌐 Live Demo
 
-Coming Soon
-
----
-
-# 📸 Preview
-
-> Add a screenshot here after deployment.
-
-Example:
-
-```
-public/
-    preview.png
-```
-
-Then use
-
-```md
-![BR30 QR Studio Preview](https://raw.githubusercontent.com/mukeshkumarsingh7488-afk/BR30-QR-Studio/main/public/preview.png)
-```
+https://br-30-qr-studio-xi.vercel.app/
 
 ---
 
 # 🛠 Tech Stack
 
-| Technology   | Version |
-| ------------ | ------- |
-| React        | Latest  |
-| Vite         | Latest  |
-| JavaScript   | ES6+    |
-| HTML5        | ✔       |
-| CSS3         | ✔       |
-| QRCode React | Latest  |
-| Lucide React | Latest  |
+| Technology   | Used |
+| ------------ | ---- |
+| React        | ✅   |
+| Vite         | ✅   |
+| JavaScript   | ✅   |
+| HTML5        | ✅   |
+| CSS3         | ✅   |
+| QRCode React | ✅   |
+| Lucide React | ✅   |
 
 ---
 
 # 📂 Project Structure
 
-```
+```text
 BR30-QR-Studio
 │
 ├── public
 │   ├── favicon.ico
-│   ├── favicon-16x16.png
-│   ├── favicon-32x32.png
+│   ├── preview.png
+│   ├── logo.png
 │   ├── apple-touch-icon.png
 │   └── site.webmanifest
 │
@@ -98,9 +100,9 @@ BR30-QR-Studio
 │   ├── App.jsx
 │   └── main.jsx
 │
+├── index.html
 ├── package.json
 ├── vite.config.js
-├── index.html
 └── README.md
 ```
 
@@ -132,13 +134,13 @@ Run Development Server
 npm run dev
 ```
 
-Production Build
+Create Production Build
 
 ```bash
 npm run build
 ```
 
-Preview Build
+Preview Production Build
 
 ```bash
 npm run preview
@@ -152,45 +154,44 @@ npm run preview
 - Microsoft Edge
 - Brave
 - Firefox
-- Opera
 - Safari
+- Opera
 
 ---
 
 # 🎯 Future Roadmap
 
-- QR Color Customization
-- QR Logo Upload
-- Gradient QR Codes
-- SVG Download
-- High Resolution Export
-- PNG Export
-- QR Templates
-- Dark & Light Themes
-- Analytics Support
-- QR History
+- 🎨 QR Color Customization
+- 🖼 Logo Upload
+- 🌈 Gradient QR
+- SVG Export
+- PNG HD Export
+- PDF Export
 - Dynamic QR Codes
-- WiFi QR Generator
-- WhatsApp QR Generator
-- Email QR Generator
-- vCard QR Generator
-- PDF QR Generator
+- QR Templates
+- WhatsApp QR
+- WiFi QR
+- Email QR
+- vCard QR
+- Dark / Light Themes
+- QR Analytics
+- QR History
 
 ---
 
-# ⚙ Performance
+# ⚡ Performance
 
 - Lightweight
+- SEO Optimized
 - Fast Rendering
-- SEO Friendly
-- Mobile Optimized
+- Mobile Friendly
 - Production Ready
 
 ---
 
 # 🔒 Privacy
 
-BR30 QR Studio does **not** store any user links or QR codes.
+BR30 QR Studio never stores your URLs or QR Codes.
 
 Everything is generated locally inside your browser.
 
@@ -202,11 +203,11 @@ Everything is generated locally inside your browser.
 
 Founder — BR30 Group
 
-LinkedIn
+🔗 LinkedIn
 
 https://www.linkedin.com/in/mukeshraj-br30/
 
-GitHub
+💻 GitHub
 
 https://github.com/mukeshkumarsingh7488-afk
 
@@ -216,11 +217,11 @@ https://github.com/mukeshkumarsingh7488-afk
 
 If you like this project,
 
-⭐ Star the repository
+⭐ Star this repository
 
 🍴 Fork it
 
-📢 Share it
+📢 Share it with others
 
 ---
 
@@ -233,7 +234,5 @@ Copyright © 2026 BR30 Group
 ---
 
 <p align="center">
-
-Made with ❤️ by BR30 Group
-
+Made with ❤️ by <strong>BR30 Group</strong>
 </p>
